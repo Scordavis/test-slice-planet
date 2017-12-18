@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<title>Bootstrap Starter Template</title>
+	<style>body { opacity: 0; overflow-x: hidden; } html{ background-color: #fff; }</style>
+</head>
+
+<body>
+
+	<header class="header-section">
+		<div class="scor-top-nav">
+			<div class="col-md-4 logo-block">
+				<a href="#"><img src="img/logotop.svg" width="170px" alt="Швейное предприятие 'Красная площадь'" title="Швейное предприятие 'Красная площадь'"></a>
+				<p>Производство и продажа военной формы и атрибутики</p>
+			</div>
+			<div class="col-md-4 phones">
+				<p>8-800-222-12-27</p><p>8(495)544-20-67</p>
+			</div>
+			<div class="col-md-4 call">
+				<button><p>Закажите<span>оптимальный комплект</span></p></button>
+			</div>
+		</div>
+		<div class="container"></div>
+		<div class="bg-video"></div>
+		<div class="visual-grid"></div>
+	</header>
+
+
+	<!-- Bootstrap -->
+	
+	<link rel="stylesheet" href="css/libs.css">
+	<link rel="stylesheet" href="css/main.css">
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<script src="js/libs.min.js"></script>
+	<script src="js/common.js"></script>
+</body>
+
+</html>
